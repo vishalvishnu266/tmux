@@ -6,7 +6,7 @@ sudo apt install tmux fish htop git ranger -Y
 
 sudo apt install default-jdk maven -Y 
 
-sudo apt install build-essential	
+sudo apt install build-essential nodejs -Y
 
 fish
 
