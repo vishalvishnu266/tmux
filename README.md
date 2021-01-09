@@ -2,7 +2,7 @@
 
 sudo apt update
 
-sudo apt install tmux fish htop git
+sudo apt install tmux fish htop git ranger -Y
 fish
 
 cd ~
