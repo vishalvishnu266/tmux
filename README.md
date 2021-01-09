@@ -11,6 +11,7 @@ cd oh-my-fish
 bin/install --offline
 
 omf install z
+
 omf install extract
 
 
