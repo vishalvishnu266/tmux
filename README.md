@@ -4,6 +4,8 @@ sudo apt update
 
 sudo apt install tmux fish htop git ranger -Y
 
+sudo apt install default-jdk maven -Y 
+
 fish
 
 cd ~
