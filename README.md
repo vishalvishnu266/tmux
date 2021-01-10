@@ -1,4 +1,3 @@
-# tmux
 
 sudo apt update
 
