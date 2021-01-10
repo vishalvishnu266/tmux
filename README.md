@@ -2,7 +2,7 @@
 
 sudo apt update
 
-sudo apt install tmux fish htop git vim  ranger -y
+sudo apt install tmux fish htop copyq git vim  ranger -y
 
 sudo apt install default-jdk maven -y
 
