@@ -28,3 +28,7 @@ git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
 ~/.fzf/install
 
 
+
+ vim ~/.config/fish/config.fish
+ alias idea='bash /home/vishal/idea-IC-203.6682.168/bin/idea.sh'
+
