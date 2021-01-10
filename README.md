@@ -32,4 +32,16 @@ git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
  vim ~/.config/fish/config.fish
  
  alias idea='bash /home/vishal/idea-IC-203.6682.168/bin/idea.sh'
+ 
+ 
+ 
+ 
+ 
+ 
+sudo rm /etc/apt/preferences.d/nosnap.pref
+sudo apt update
+sudo apt install snapd
+sudo snap install postman
+sudo snap install intellij-idea-community --classic
+sudo snap install code --classic
 
