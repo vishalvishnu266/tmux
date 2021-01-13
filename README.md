@@ -44,3 +44,8 @@ sudo snap install postman
 sudo snap install intellij-idea-community --classic
 sudo snap install code --classic
 
+
+sudo usermod -aG docker $USER
+
+
+
