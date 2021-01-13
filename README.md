@@ -47,5 +47,7 @@ sudo snap install code --classic
 
 sudo usermod -aG docker $USER
 
+newgrp docker
+
 
 
