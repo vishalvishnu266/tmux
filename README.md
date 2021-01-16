@@ -7,6 +7,9 @@ sudo apt install default-jdk maven -y
 
 sudo apt install build-essential nodejs -y
 
+sudo apt install graphviz
+
+
 fish
 
 cd ~
