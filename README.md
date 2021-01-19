@@ -52,5 +52,18 @@ sudo usermod -aG docker $USER
 
 newgrp docker
 
+# TERMINAL THEME
+sudo apt-get install dconf-cli uuid-runtime
+# clone the repo into "$HOME/src/gogh"
+mkdir -p "$HOME/src"
+cd "$HOME/src"
+git clone https://github.com/Mayccoll/Gogh.git gogh
+cd gogh/themes
 
+# necessary on ubuntu
+export TERMINAL=gnome-terminal
+
+# install themes
+./gruvbox-dark.sh 
+./gruvbox.sh  
 
